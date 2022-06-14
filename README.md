@@ -1,6 +1,6 @@
 ### Hi Witches 👋🧙🏻‍♀️
 
-🔭 I'm working on a really ✨ _cutie React project_ ✨ for [screets](http://github.com/screets/screets.io). 
+🔭 I'm working on a really ✨_cutie React project_✨ for [screets](http://github.com/screets/screets.io). 
 
 I can't wait to release it this year 😛
 
