@@ -1,6 +1,8 @@
 ### Hi Witches 👋🧙🏻‍♀️
 
-🔭 I’m currently working on a cutie React project [@screets](http://github.com/screets/screets.io). Can't wait to release this year 😛
+🔭 I'm working on a really ✨ _cutie React project_ ✨ for [screets](http://github.com/screets/screets.io). 
+
+I can't wait to release it this year 😛
 
 <!--
 **beytarovski/beytarovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
