@@ -1,7 +1,6 @@
 ### Yo 😀
 
-- 🔭 I'm currently working on a cute ✨ React project ✨ for [**screets**](http://github.com/screets). 
-- 🌱 And new brand is on the way...
+🔭 I'm currently working on a cute ✨ React project ✨ for [**screets**](http://github.com/screets).
 
 Look forward it!
 
