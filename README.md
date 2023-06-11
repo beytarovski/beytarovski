@@ -1,6 +1,6 @@
 ## Yo 😀
 
-#### 🔭 I'm currently working on a cute ✨ AI project ✨ for [**ConnectNow UK**](http://github.com/redfungi).
+#### 🔭 I'm currently working on a cute ✨ AI project ✨ for [**ConnectNow UK**](http://github.com/redfungi-ai).
 
 Look forward it!
 
