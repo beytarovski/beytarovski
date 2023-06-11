@@ -1,6 +1,6 @@
-### Yo 😀
+## Yo 😀
 
-🔭 I'm currently working on a cute ✨ React project ✨ for [**screets**](http://github.com/screets).
+#### 🔭 I'm currently working on a cute ✨ AI project ✨ for [**ConnectNow UK**](http://github.com/redfungi).
 
 Look forward it!
 
