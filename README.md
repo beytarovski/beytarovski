@@ -1,5 +1,5 @@
 ## Hey
 
-Working for a new version of **screets**.
+🎒 Working for new version of **screets**.
 
-https://screets.io
+> Current website: https://screets.com
