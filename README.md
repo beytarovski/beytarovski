@@ -1,6 +1,6 @@
 ## Hey
 
 * 🎉🎃 Preparing for 2024 updates.
-* 🧤 Working on new product of **screets**.
+* 🧤 Working on a new product for **screets**.
 
 > Current website: https://screets.com
