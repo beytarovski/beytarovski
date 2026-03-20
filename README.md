@@ -1,5 +1,5 @@
 ## Hey!
 
-### Building my first game 🐝  ever...
+### Building my first game –ever...
 
 Пчёлка.
