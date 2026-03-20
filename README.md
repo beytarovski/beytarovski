@@ -1,1 +1,5 @@
-## Hey, there!
+## Hey!
+
+### Building my first game 🐝  ever...
+
+Пчёлка.
