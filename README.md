@@ -1,4 +1,4 @@
-**Building my first game 🥶**
+**Building game 🥶**
 
 Пчёлка.
 
