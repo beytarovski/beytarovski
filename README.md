@@ -1,5 +1,3 @@
-**Building a game 🥶**
+**Hey there**
 
 Пчёлка.
-
-🐝 [balarisi.games](https://balarisi.games)
